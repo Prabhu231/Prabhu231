@@ -2,18 +2,20 @@
 
 Hey there! I'm Prabhu, a passionate and fun-loving web developer with an unshakable love for all things tech. 🚀 Whether it's building sleek UIs or optimizing backend architectures, I pour my heart into crafting amazing web experiences that solve real-world problems.
 
-## 💼 Internship Experience
+## 💼 Experience
 
-Built a full-featured authentication and authorization system in a React-Django application using JSON Web Tokens (JWT), with role-based access control and permission management to secure
-sensitive data and endpoints.
+### KPMG Assurance and Consulting Services
+#### SDE Student Intern
 
-Designed interactive data dashboards with graph visualizations of user logins and associated activity, alongside comprehensive paginated views for user logs, client data, and asset management.
+- Built a full-featured **authentication and authorization system** in a **React-Django** application using **JSON Web Tokens (JWT)**, with **role-based access control** and **permission management** to secure sensitive data and endpoints.
+  
+- Designed **interactive data dashboards** with **graph visualizations** of user logins and associated activity, alongside comprehensive **paginated views** for user logs, client data, and asset management.
 
-Implemented advanced data ingestion workflows with support for Excel uploads, background processing, progress tracking, and rollback functionality —enabling reliable and scalable handling of large datasets.
+- Implemented advanced **data ingestion workflows** with support for **Excel uploads**, **background processing**, **progress tracking**, and **rollback functionality**, enabling reliable and scalable handling of large datasets.
 
-Automated user lifecycle management using Windows Task Scheduler to deactivate dormant accounts after a month of inactivity, improving system hygiene and resource optimization.
+- Automated **user lifecycle management** using **Windows Task Scheduler** to deactivate dormant accounts after a month of inactivity, improving system hygiene and resource optimization.
 
-Conducted backend performance benchmarking on datasets (10K–1.5M records), selecting the Django + MySQL stack for optimal scalability and faster query handling in production.
+- Conducted **backend performance benchmarking** on datasets (10K–1.5M records), selecting the **Django + MySQL stack** for optimal scalability and faster query handling in production.
 
 
 
