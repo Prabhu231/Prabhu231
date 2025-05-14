@@ -6,7 +6,7 @@ Hey there! I'm Prabhu, a passionate and fun-loving web developer with an unshaka
 
 I’m super excited to share with you some of the projects I've worked on. These are my digital playgrounds where I experiment, learn, and create!
 
-### 1. [**prabhupatil.com**](https://prabhupatil.com){:target="_blank"}
+### 1. <a href="https://prabhupatil.com" target="_blank">**prabhupatil.com**</a>
 A personal portfolio where I showcase my skills, projects, and everything that fuels my tech passion. From sleek designs to powerful functionality, this is where you get to know the person behind the code. Check it out to get a glimpse of my journey and vision for the future of web development.
 
 ### 2. [**hintcode.in**](https://hintcode.in){:target="_blank"}
