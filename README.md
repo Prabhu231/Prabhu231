@@ -39,7 +39,8 @@ I believe in using the right tool for the job! Here are some of the frameworks a
 - **React & Next.js**: My go-to tools for creating responsive and dynamic user interfaces.
 - **Node.js**: The backbone for scalable, high-performance applications.
 - **Django**: I love building robust backends with Django and making them API-first with DRF.
-- **JWT Authentication & OAuth**: I make sure that user data is secure with efficient authentication mechanisms.
+- **Tailwind CSS**: A utility-first CSS framework that lets me build modern and responsive designs with ease. It’s super customizable, and I love how quickly I can create clean, well-structured UIs without writing a lot of custom CSS.
+- **TypeScript**: A superset of JavaScript that adds static types. It helps me write more reliable, maintainable, and scalable code, especially in large applications. The type safety feature helps catch errors early, making the development process smoother and more enjoyable.
 
 ## 🎯 What Drives Me
 
