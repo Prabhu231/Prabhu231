@@ -9,10 +9,10 @@ I’m super excited to share with you some of the projects I've worked on. These
 ### 1. <a href="https://prabhupatil.com" target="_blank">**prabhupatil.com**</a>
 A personal portfolio where I showcase my skills, projects, and everything that fuels my tech passion. From sleek designs to powerful functionality, this is where you get to know the person behind the code. Check it out to get a glimpse of my journey and vision for the future of web development.
 
-### 2. [**hintcode.in**](https://hintcode.in){:target="_blank"}
+### 2. [**hintcode.in**](https://hintcode.in)
 Hintcode is a full-stack platform to practice data structures and algorithms with real-time C++ code evaluation. It features a built-in editor, 50+ curated problems, automated test validation, and AI-powered hints to help users learn, debug, and improve efficiently.
 
-### 3. [**autoscheduler.in**](https://autoscheduler.in){:target="_blank"}
+### 3. [**autoscheduler.in**](https://autoscheduler.in)
 This is a project close to my heart. Autoscheduler is a powerful tool designed to help you schedule and send bulk emails with file attachments to up to 50 BCC recipients in a single operation. Whether you're managing marketing campaigns, sending reports, or sharing updates, Autoscheduler simplifies the process of automating email deliveries.
 
 ## ⚡ Tech Stack
@@ -33,6 +33,6 @@ Feel free to explore my projects, contribute, or just drop a message! Let’s bu
 ## 🔧 Let’s Connect!
 
 - Email: [prabhumahesh.patil@gmail.com](mailto:prabhumahesh.patil@gmail.com)
-- LinkedIn: [@prabhupatil](https://www.linkedin.com/in/prabhupatil1/){:target="_blank"}
+- LinkedIn: [@prabhupatil](https://www.linkedin.com/in/prabhupatil1/)
 
 Thank you for checking out my work! Let’s create the future of the web, together. 🌐
