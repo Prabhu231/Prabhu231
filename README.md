@@ -55,6 +55,6 @@ Feel free to explore my projects, contribute, or just drop a message! Let’s bu
 ## 🔧 Let’s Connect!
 
 - Email: [prabhumahesh.patil@gmail.com](mailto:prabhumahesh.patil@gmail.com)
-- LinkedIn: [@prabhupatil](https://www.linkedin.com/in/prabhupatil1/)
+- LinkedIn: [@prabhupatil1](https://www.linkedin.com/in/prabhupatil1/)
 
 Thank you for checking out my work! Let’s create the future of the web, together. 🌐
