@@ -2,6 +2,7 @@
 
 Hey there! I'm Prabhu, a passionate and fun-loving web developer with an unshakable love for all things tech. 🚀 Whether it's building sleek UIs or optimizing backend architectures, I pour my heart into crafting amazing web experiences that solve real-world problems.
 
+
 Visit my website [prabhupatil.com](https://prabhupatil.com/)
 
 ## 💼 Experience
@@ -18,6 +19,10 @@ Visit my website [prabhupatil.com](https://prabhupatil.com/)
 - Automated **user lifecycle management** using **Windows Task Scheduler** to deactivate dormant accounts after a month of inactivity, improving system hygiene and resource optimization.
 
 - Conducted **backend performance benchmarking** on datasets (10K–1.5M records), selecting the **Django + MySQL stack** for optimal scalability and faster query handling in production.
+- 
+## 📊 GitHub Stats
+
+![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhupatil1&show_icons=true&theme=radical)
 
 
 
